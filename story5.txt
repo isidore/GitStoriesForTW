@@ -1,1 +1,7 @@
 As a user I want to select a shipping speed.
+<<<<<<< HEAD
+As a user I want to see the shipping cost associated with every shipping speed, so that I can make an informed decision.
+=======
+
+As a user I want to select a shipping speed- requirement-2
+>>>>>>> 0a14e14236967257b4f425cd82887e0d7c68322b
