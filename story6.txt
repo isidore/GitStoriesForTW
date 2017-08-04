@@ -1,1 +1,0 @@
-As a customer, I want to see an ISP option in my shipping session, so that I know all of the available shopping options.

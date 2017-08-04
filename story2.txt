@@ -1,2 +1,0 @@
-As a user I want to select a shipping speed.
-I am putting my text here from team 3
