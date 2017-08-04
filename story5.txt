@@ -1,1 +1,2 @@
 As a user I want to select a shipping speed.
+As a user I want to see the shipping cost associated with every shipping speed, so that I can make an informed decision.
