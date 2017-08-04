@@ -1,1 +1,2 @@
 As a mobile customer, i want to see dicounts on wine such that i would know how much discount i am getting
+discount should be prefixed by $ sign
